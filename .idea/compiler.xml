@@ -9,8 +9,5 @@
         <module name="Second-hand-book-trading-system" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Second-hand-book-trading-system" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>
